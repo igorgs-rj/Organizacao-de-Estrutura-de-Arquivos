@@ -7,7 +7,7 @@ Passo a passo no terminal:
 
 1- gcc Busca_Binaria_Arquivos.c -o Busca_Binaria_Arquivos
 
-2- ./Busca_Binaria_Arquivos 0103390701033907
+2- ./Busca_Binaria_Arquivos 01033907
 
 
 Obs: 01033907 é o Cep que se deseja procurar.
